@@ -98,10 +98,10 @@
   - Pipes  
 	Custom Pipes ? how to implement and real example  
 	Pure pipes  
+	Custom Pipes ? how to implement and real example  
 		
  - Directives 
 	Types > why component is directive  
-	Custom Pipes ? how to implement and real example  
 	
  - content projection
  
