@@ -20,17 +20,17 @@
 	module.exports vs export
 
    - higher order function
-		callbacks  
-		real use case  
-		callback hell ? and example  
+	 - callbacks
+		real use case   
+		callback hell ? and example   
 					
 	 - promises  
-			real use case
-			chaining
-			promiseall vs race
+			real use case  
+			chaining  
+			promiseall vs race  
 			
 	 - async/await  
-	 	real use case  
+	 	real use case   
 
 	Hoisting? let, var, const,normal funtion  
 		why function as expression not hoisted.  
