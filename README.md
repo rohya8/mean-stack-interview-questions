@@ -107,7 +107,7 @@
 		Subjects? Subjects vs BehaviorSubjects vs ReplaySubjects	
 		observables chaining
 			
-  Interceptor > how to use? use cases
+  	Interceptor > how to use? use cases
 	
 	package.json& package-lock.json	> rough idea of contents of both
 	angular.json
@@ -144,7 +144,7 @@
   Why mongoose? > any other orm
   find
   aggregate > stages
-    joins($loookup)	> foreign key, left outer join only 
+    joins($loookup) > foreign key, left outer join only 
     optimization
   replica
   sharding
@@ -152,7 +152,7 @@
 	
 ### JWT 
   Why?
-	  (rough idea) how it works
+	(rough idea) how it works
 	  methods > use
   bcrypt vs jwt
 	
