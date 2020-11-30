@@ -45,12 +45,12 @@
 
 	functions > iffe, expression, normal function
 
- - es6 features
-		fat arrow > significance and use
-		classes 
-		literal string
-		destructuring object
-		rest and spread > significance and use
+ - es6 features  
+ 	fat arrow > significance and use  
+	classes  
+	literal string  
+	destructuring object  
+	rest and spread > significance and use  
 
 	Scope in JavaScript > global local lexical	
 		
