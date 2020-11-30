@@ -137,28 +137,28 @@
 	security features in your application
 	
   - change detection
-		ngzone
-		which component lifecyclehook called
+	ngzone
+	which component lifecyclehook called
 	
 ### Mongodb
-  Why mongoose? > any other orm
-  find
-  aggregate > stages
-    joins($loookup) > foreign key, left outer join only 
-    optimization
-  replica
-  sharding
-  cluster
+  Why mongoose? > any other orm  
+  find  
+  aggregate > stages  
+    joins($loookup) > foreign key, left outer join only  
+    optimization  
+  replica  
+  sharding  
+  cluster  
 	
 ### JWT 
-  Why? 
-   (rough idea) how it works 
-   methods > use 
-  bcrypt vs jwt 
+  Why?  
+   (rough idea) how it works  
+   methods > use  
+  bcrypt vs jwt  
 	
 ### RestApi
-  Why?
-  What?
+  Why?  
+  What?  
 
 ### Programs
 	string reverse (using inbuilt methods and by loop) 1. simple 2. sentence( normal, word by word reverse) 
