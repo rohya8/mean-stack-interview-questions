@@ -32,9 +32,9 @@
 	 - async/await
 			real use case
 
-	 Hoisting? let, var, const,normal funtion 
-		why function as expression not hoisted.
-		"use strict"
+	Hoisting? let, var, const,normal funtion  
+		why function as expression not hoisted.  
+		"use strict"  
 		
 	call, apply, bind  / context switching
 	prototype
