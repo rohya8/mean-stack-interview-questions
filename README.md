@@ -29,8 +29,8 @@
 			chaining
 			promiseall vs race
 			
-	 - async/await
-			real use case
+	 - async/await  
+	 	real use case  
 
 	Hoisting? let, var, const,normal funtion  
 		why function as expression not hoisted.  
@@ -54,9 +54,9 @@
 
 	Scope in JavaScript > global local lexical	
 		
- - File system(fs)
-		asynchronous > methods
-		synchronous > methods
+ - File system(fs)  
+	asynchronous > methods  
+	synchronous > methods  
 	
 	settimeout, setimmediate,setInterval 
 	
