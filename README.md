@@ -20,11 +20,11 @@
 	module.exports vs export
 
    - higher order function
-		  callbacks 
-			real use case
-			callback hell ? and example
+		callbacks  
+		real use case  
+		callback hell ? and example  
 					
-	 - promises
+	 - promises  
 			real use case
 			chaining
 			promiseall vs race
