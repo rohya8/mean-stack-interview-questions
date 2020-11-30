@@ -151,10 +151,10 @@
   cluster
 	
 ### JWT 
-  Why?
-	(rough idea) how it works
-	  methods > use
-  bcrypt vs jwt
+  Why? 
+   (rough idea) how it works 
+   methods > use 
+  bcrypt vs jwt 
 	
 ### RestApi
   Why?
