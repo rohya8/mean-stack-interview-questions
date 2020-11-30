@@ -161,13 +161,13 @@
   What?
 
 ### Programs
-	string reverse (using inbuilt methods and by loop) 1. simple 2. sentence( normal, word by word reverse) <br />
-	string manipulation (using inbuilt methods and by loop) <br />
-	fibonacci series (using recursion and loop) 1. simple 2. till n terms <br />
-	palindrome(string and number) <br />
-	array (sort, find,remove duplicates, replace value, reverse) <br />
-	let var const <br />
-	0.1+0.2==0.3 (reason why not equal) <br />
-	console.log(3>2>1)	console.log(1<2<3) <br />
-	console.log(1 ?? 3) <br /> 
+	string reverse (using inbuilt methods and by loop) 1. simple 2. sentence( normal, word by word reverse) 
+	string manipulation (using inbuilt methods and by loop) 
+	fibonacci series (using recursion and loop) 1. simple 2. till n terms 
+	palindrome(string and number) 
+	array (sort, find,remove duplicates, replace value, reverse) 
+	let var const 
+	0.1+0.2==0.3 (reason why not equal) 
+	console.log(3>2>1)	console.log(1<2<3) 
+	console.log(1 ?? 3) 
 
