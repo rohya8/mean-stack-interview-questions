@@ -151,14 +151,13 @@
   	cluster  
 	
 ### JWT 
-  Why?  
-   (rough idea) how it works  
-   methods > use  
-  bcrypt vs jwt  
+	Why?  
+   	   (rough idea) how it works  
+	methods > use  
+  	bcrypt vs jwt  
 	
 ### RestApi
-  Why?  
-  What?  
+	Why?  What?  
 
 ### Programs
 	string reverse (using inbuilt methods and by loop) 1. simple 2. sentence( normal, word by word reverse) 
