@@ -75,7 +75,11 @@
 	virtual dom,real dom,real dom,shadow dom  
 	scaling
 	
+### TypeScript
+	
+
 ### Angular
+
  - Angular start point  
 	purpose index.html and main.ts
 	
