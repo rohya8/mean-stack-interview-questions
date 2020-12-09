@@ -65,7 +65,7 @@
 	
   - settimeout, setimmediate,setInterval 
 	
-  - chron job
+  - cron job
 					
 #### Advance Question 
 	web worker
@@ -76,11 +76,10 @@
 	scaling
 	
 ### Angular
- - Angular start point 
-	purpose index.html
-	main.ts
+ - Angular start point  
+	purpose index.html and main.ts
 	
-  - decorators?  
+  - Decorators?  
   
   - Module? imports,declaration,providers
 	
@@ -102,10 +101,11 @@
 		
  - Directives 
 	Types > why component is directive  
+	Can we use `*ngIf` and `*ngFor` on single line
 	
  - content projection
  
- - elvis operator	
+ - Elvis operator	
 		
  - Observalables vs promises?  
 		why observables are prefered  
@@ -140,10 +140,26 @@
 	
   - security features in your application
 	
-  - change detection
-	ngzone
+  - change detection  
+	ngzone  
 	which component lifecyclehook called
+
+  - Routing  
+	purpose of base href tag  
+	lazy loading > what it is? how to implement.  
+	router outlet, router links, router state, routerLinkActive  
+	Wildcard route  
+	Route Guards > Types(CanActivate, CanActivateChild, CanDeactivate,Resolve and CanLoad)
+
+  - Routing  
+	purpose of base href tag  
+	lazy loading > what it is? how to implement.  
+	router outlet, router links, router state, routerLinkActive  
+	Wildcard route  
+	Route Guards > Types(CanActivate, CanActivateChild, CanDeactivate,Resolve and CanLoad)
 	
+  - Just-in-Time (JIT) vs Ahead-of-Time (AOT)
+
 ### Mongodb
 	Why mongoose? > any other orm  
   		find  
@@ -159,6 +175,7 @@
    	   (rough idea) how it works  
 	methods > use  
   	bcrypt vs jwt  
+	drawbacks
 	
 ### RestApi
 	Why?  What?  
