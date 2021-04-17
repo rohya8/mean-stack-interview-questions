@@ -1,0 +1,65 @@
+### MEAN Interview Questions for 2-3 years Experience
+
+## Node and javascript
+1. async,await and promise difference
+2. callback hell how to remove this callback hell
+3. error first callback
+4. Nodejs and Angular difference 
+5. closure
+6. spread operator, rest operator
+7. hoisting
+8. arrow function and normal function difference
+9. middleware in nodejs
+10. call, bind, apply with example
+11. promise chaining
+12. promise.all
+13. libuv in nodejs,
+14. architecture of nodejs
+15. event loop in nodejs
+16. destructuring in javascript
+17. ES6 features with examples
+18. var let const difference
+19. null undefined undeclared
+20. module.exports and exports
+21. diff between typescript and javascript
+22. type of Array function.
+23. diff between map,filter,forEach
+24. cluster,fork, process spawn in nodejs
+25. Argument in javascript
+26. prototyping  (very important)
+27. method of object creation, object cloning
+28. Authorization and Authentication
+29. Difference between slice and splice ( Important )
+30. Error Handling in Nodejs
+31. What are packages have you used in Nodejs?
+32. Difference between package.json and package-lock.json
+
+
+## Angular
+1. component, Directives, Pipe
+2. dependency injection
+3. routing, wild card routes
+4. lifecycle hooks
+5. communication between two component if its child parent or independent component
+6. rxjs, types of rxjs
+7. what is an interceptor and why we use Interceptor. 
+8. guards ->(CanActivate, CanActivateChild, CanDeactivate,Resolve and CanLoad)
+9. knowledge of creating custom directive, pipe, module
+10. Observalables and Promise differences with example
+11. Difference between Angular 4 and Angular 8 
+12. What are Decorators in Angular?
+13. Difference between Angularjs and Angular 2  {( Important )
+14. DataBindings in Angular 
+15. Subjects vs BehaviorSubjects
+16. Lazy loading in Angular
+17. Difference between Local Storage, Session Storage and Cookies
+18. Starting point of Angular?
+
+
+## MongoDB
+1.Difference between Relational DB and Non-Relational DB
+2. What is Aggregation and its pipeline stages?
+3. Can we achieve joins in Mongo? Yes, vai $lookup pipeline
+4. Sharding 
+5. Replication
+
