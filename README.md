@@ -37,9 +37,9 @@
 	 - async/await  
 	 	real use case   
 
-  - Hoisting? let, var, const,normal funtion  
-	why function as expression not hoisted.  
-	"use strict"  
+  - Hoisting > let, var, const,normal funtion  
+	     > why function as expression not hoisted.  
+	     > "use strict"  
 		
   - call, apply, bind  / context switching
   - prototype
@@ -76,7 +76,7 @@
 	scaling
 	
 ### TypeScript
-	
+	Will Add Soon
 
 ### Angular
 
@@ -89,19 +89,17 @@
 	
   - Service?  
 	@injectable => providedin  
-	how to make singleton service > 1. providedin="root" 2.providedin="Module_Name"  
+	how to make singleton service > 1. providedin="root" & 2.providedin="Module_Name"  
 			
   - Components?  
-	Lifecyclehooks?  
-		children method  
-		why ngOnchanges called first  			
-		parameters  
-		can we provide service directly in component? how? how many instances created?  
+	Lifecyclehooks? > children method  
+			> why ngOnchanges called first  			
+			> parameters  
+			> can we provide service directly in component? how? how many instances created?  
 		
   - Pipes  
 	Custom Pipes ? how to implement and real example  
 	Pure pipes  
-	Custom Pipes ? how to implement and real example  
 		
  - Directives 
 	Types > why component is directive  
@@ -116,7 +114,7 @@
 		Subjects? Subjects vs BehaviorSubjects vs ReplaySubjects  	
 		observables chaining  
 			
-  - Interceptor > how to use? use cases
+  - Interceptor > how to use ? use cases
 	
   - package.json& package-lock.json	> rough idea of contents of both  
  	angular.json  
@@ -130,9 +128,8 @@
 
   - Event binding & Property binding
 	
-  - Event bubbling
-	stop propagation vs prevent default  
-	event delegation  
+  - Event bubbling > how to stop propagation vs prevent default  
+  		   > event delegation  
 		
   - url/dom sanitization
 
