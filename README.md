@@ -26,8 +26,8 @@
 
    - higher order function
 	 - callbacks
-		real use case   
-		callback hell ? and example   
+		- real use case   
+		- callback hell ? and example   
 					
 	 - promises  
 		real use case  
@@ -37,9 +37,10 @@
 	 - async/await  
 	 	real use case   
 
-  - Hoisting > let, var, const,normal funtion  
-	     > why function as expression not hoisted.  
-	     > "use strict"  
+  - Hoisting  
+  	- let, var, const,normal funtion  
+	- why function as expression not hoisted.  
+	- "use strict"  
 		
   - call, apply, bind  / context switching
   - prototype
@@ -92,10 +93,11 @@
 	how to make singleton service > 1. providedin="root" & 2.providedin="Module_Name"  
 			
   - Components?  
-	Lifecyclehooks? > children method  
-			> why ngOnchanges called first  			
-			> parameters  
-			> can we provide service directly in component? how? how many instances created?  
+	Lifecyclehooks?  
+		- children method  
+		- why ngOnchanges called first  			
+		- parameters  
+		- can we provide service directly in component? how? how many instances created?  
 		
   - Pipes  
 	Custom Pipes ? how to implement and real example  
@@ -116,9 +118,10 @@
 			
   - Interceptor > how to use ? use cases
 	
-  - package.json& package-lock.json	> rough idea of contents of both  
- 	angular.json  
-    	tsconfig.json  
+  - purpose of below files and atleast rough idea of contents  
+  	- package.json& package-lock.json  
+	- angular.json  
+    	- tsconfig.json  
 	
   - Data passing between components
 
@@ -128,8 +131,9 @@
 
   - Event binding & Property binding
 	
-  - Event bubbling > how to stop propagation vs prevent default  
-  		   > event delegation  
+  - Event bubbling 
+  	- how to stop propagation vs prevent default  
+	- event delegation  
 		
   - url/dom sanitization
 
