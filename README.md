@@ -14,7 +14,7 @@
    - threadpool? Libuv module
 
    - why express?  
-	middleware  
+        - middleware? example  
 					
    - streams
    
@@ -30,12 +30,12 @@
 		- callback hell ? and example   
 					
 	 - promises  
-		real use case  
-		chaining  
-		promiseall vs race  
+	   - real use case  
+	   - chaining  
+	   - promiseall vs race  
 			
 	 - async/await  
-	 	real use case   
+	   - real use case   
 
   - Hoisting  
   	- let, var, const,normal funtion  
@@ -52,17 +52,17 @@
   - functions > iffe, expression, normal function  
 
  - es6 features  
- 	fat arrow > significance and use  
-	classes  
-	literal string  
-	destructuring object  
-	rest and spread > significance and use  
+	 - fat arrow > significance and use  
+	 - classes  
+	 - literal string  
+	 - destructuring object  
+	 - rest and spread > significance and use  
 
   - Scope in JavaScript > global local lexical	
 		
  - File system(fs)  
-	asynchronous > methods  
-	synchronous > methods  
+	 - asynchronous > methods  
+	 - synchronous > methods  
 	
   - settimeout, setimmediate,setInterval 
 	
@@ -93,35 +93,37 @@
 	how to make singleton service > 1. providedin="root" & 2.providedin="Module_Name"  
 			
   - Components?  
-	Lifecyclehooks?  
+	 - Lifecyclehooks?  
 		- children method  
 		- why ngOnchanges called first  			
 		- parameters  
 		- can we provide service directly in component? how? how many instances created?  
 		
   - Pipes  
-	Custom Pipes ? how to implement and real example  
-	Pure pipes  
+	 - Custom Pipes ? how to implement and real example  
+	 - Pure pipes  
 		
  - Directives 
-	Types > why component is directive  
-	Can we use `*ngIf` and `*ngFor` on single line
+	 - Types > why component is directive  
+	 - Custom directive ? how to implement and real example  
+	 
+ - Can we use `*ngIf` and `*ngFor` on single line
 	
  - content projection
  
  - Elvis operator	
 		
  - Observalables vs promises?  
-		why observables are prefered  
-		Subjects? Subjects vs BehaviorSubjects vs ReplaySubjects  	
-		observables chaining  
+	 - why observables are prefered  
+	 - Subjects? Subjects vs BehaviorSubjects vs ReplaySubjects  	
+	 - observables chaining  
 			
   - Interceptor > how to use ? use cases
 	
   - purpose of below files and atleast rough idea of contents  
   	- package.json& package-lock.json  
 	- angular.json  
-    	- tsconfig.json  
+    - tsconfig.json  
 	
   - Data passing between components
 
@@ -146,23 +148,16 @@
   - security features in your application
 	
   - change detection  
-	ngzone  
-	which component lifecyclehook called
+	 - ngzone  
+	 - which component lifecyclehook called
 
   - Routing  
-	purpose of base href tag  
-	lazy loading > what it is? how to implement.  
-	router outlet, router links, router state, routerLinkActive  
-	Wildcard route  
-	Route Guards > Types(CanActivate, CanActivateChild, CanDeactivate,Resolve and CanLoad)
+	 - purpose of base href tag  
+	 - lazy loading > what it is? how to implement.  
+	 - router outlet, router links, router state, routerLinkActive  
+	 - Wildcard route  
+	 - Route Guards > Types(CanActivate, CanActivateChild, CanDeactivate,Resolve and CanLoad)
 
-  - Routing  
-	purpose of base href tag  
-	lazy loading > what it is? how to implement.  
-	router outlet, router links, router state, routerLinkActive  
-	Wildcard route  
-	Route Guards > Types(CanActivate, CanActivateChild, CanDeactivate,Resolve and CanLoad)
-	
   - Just-in-Time (JIT) vs Ahead-of-Time (AOT)
 
 ### Mongodb
@@ -186,13 +181,15 @@
 	Why?  What?  
 
 ### Programs
-	string reverse (using inbuilt methods and by loop) 1. simple 2. sentence( normal, word by word reverse) 
-	string manipulation (using inbuilt methods and by loop) 
-	fibonacci series (using recursion and loop) 1. simple 2. till n terms 
-	palindrome(string and number) 
-	array (sort, find,remove duplicates, replace value, reverse) 
-	let var const 
-	0.1+0.2==0.3 (reason why not equal) 
-	console.log(3>2>1)	console.log(1<2<3) 
-	console.log(1 ?? 3) 
+	string reverse (using inbuilt methods and by loop) 1. simple 2. sentence( normal, word by word reverse)  
+	string manipulation (using inbuilt methods and by loop)  
+	fibonacci series (using recursion and loop) 1. simple 2. till n terms  
+	palindrome(string and number)  
+	factorial of number (small number and big number)  
+	array (sort, find,remove duplicates, replace value, reverse, find 2nd highest number)  
+	prime number( single number, range, next of given number)
+	let var const  
+	0.1+0.2==0.3 (reason why not equal)  
+	console.log(3>2>1)	console.log(1<2<3)  
+	console.log(1 ?? 3)  
 
