@@ -26,37 +26,43 @@
 
    - higher order function
 	 - callbacks
-		- real use case   
-		- callback hell ? and example   
+		- real use case  
+		- error first callback
+		- callback hell ? 1. example 2. how to remove the callback hell
 					
 	 - promises  
 	   - real use case  
 	   - chaining  
-	   - promiseall vs race  
+	   - promiseall vs race vs allSettled
 			
 	 - async/await  
 	   - real use case   
 
   - Hoisting  
-  	- let, var, const,normal funtion  
+  	- let, var, const, normal funtion  
 	- why function as expression not hoisted.  
 	- "use strict"  
+
+  - null undefined undeclared
 		
   - call, apply, bind  / context switching
+  
   - prototype
+  
   - closure
+  
   - classes in es5 & es6
 
-  - array > filter map reduce foreach  
+  - array > filter, map, reduce, foreach, slice, splice  
 	
   - functions > iffe, expression, normal function  
 
  - es6 features  
-	 - fat arrow > significance and use  
+	 - fat arrow functions > significance and use  
 	 - classes  
 	 - literal string  
 	 - destructuring object  
-	 - rest and spread > significance and use  
+	 - rest and spread operator > significance and use  
 
   - Scope in JavaScript > global local lexical	
 		
@@ -64,14 +70,14 @@
 	 - asynchronous > methods  
 	 - synchronous > methods  
 	
-  - settimeout, setimmediate,setInterval 
+  - settimeout, setimmediate, setInterval 
 	
   - cron job
 					
 #### Advance Question 
 	web worker
 	threads
-	spawn
+	cluster,fork, process spwan
 	cors issue > resolution & internal working
 	virtual dom,real dom,real dom,shadow dom  
 	scaling
@@ -109,7 +115,7 @@
 	 
  - Can we use `*ngIf` and `*ngFor` on single line
 	
- - content projection
+ - Content projection
  
  - Elvis operator	
 		
@@ -117,48 +123,46 @@
 	 - why observables are prefered  
 	 - Subjects? Subjects vs BehaviorSubjects vs ReplaySubjects  	
 	 - observables chaining  
-			
-  - Interceptor > how to use ? use cases
+
+ - Interceptor > how to use ? use cases
 	
-  - purpose of below files and atleast rough idea of contents  
-  	- package.json& package-lock.json  
+ - Purpose of below files and atleast rough idea of contents  
+  	- package.json & package-lock.json  
 	- angular.json  
-    - tsconfig.json  
+	- tsconfig.json  
+
+ - local storage, session storage and cookies
+
+ - Karma & Jasmine? describe, it, Spyon, Spy, beforeEach, expect
+
+ - Event binding & Property binding
 	
-  - Data passing between components
-
-  - local storage, session storage and cookies
-
-  - Karma & Jasmine? describe, it, Spyon, Spy, beforeEach, expect
-
-  - Event binding & Property binding
-	
-  - Event bubbling 
+ - Event bubbling 
   	- how to stop propagation vs prevent default  
 	- event delegation  
 		
-  - url/dom sanitization
+ - Url/dom sanitization
 
-  - Share data between component methods > total 5 method (state any 2-4)
+ - Share data between component methods > total 5 method (state any 2-4)
 	
-  - ng-container vs ng-template
+ - ng-container vs ng-template
 	
-  - content projection
+ - Security features in your application
 	
-  - security features in your application
-	
-  - change detection  
+ - Change detection  
 	 - ngzone  
 	 - which component lifecyclehook called
 
-  - Routing  
+ - Routing  
 	 - purpose of base href tag  
-	 - lazy loading > what it is? how to implement.  
+	 - lazy loading > what it is? how to implement  
 	 - router outlet, router links, router state, routerLinkActive  
 	 - Wildcard route  
-	 - Route Guards > Types(CanActivate, CanActivateChild, CanDeactivate,Resolve and CanLoad)
+	 - Route Guards > Methods and purpose (CanActivate, CanActivateChild, CanDeactivate,Resolve and CanLoad)
 
-  - Just-in-Time (JIT) vs Ahead-of-Time (AOT)
+ - Just-in-Time (JIT) vs Ahead-of-Time (AOT)
+ 
+ - rxjs, rxjs operators with example
 
 ### Mongodb
 	Why mongoose? > any other orm  
@@ -192,4 +196,5 @@
 	0.1+0.2==0.3 (reason why not equal)  
 	console.log(3>2>1)	console.log(1<2<3)  
 	console.log(1 ?? 3)  
+	methods for creating object & object cloning(shallow & deep) with example
 
