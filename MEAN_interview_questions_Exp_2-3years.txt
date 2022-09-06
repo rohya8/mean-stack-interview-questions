@@ -62,4 +62,6 @@
 3. Can we achieve joins in Mongo? Yes, vai $lookup pipeline
 4. Sharding 
 5. Replication
+5. Replication
+
 
