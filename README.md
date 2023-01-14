@@ -4,7 +4,7 @@
 
   Essentially, MEAN stack is an open-source technology that includes four JavaScript-based technologies including MongoDB, ExpressJS, Angular, Node.js (MEAN). By learning and mastering MEAN stack, you can enjoy the perks of a host of domains for developing web apps and dynamic websites.
 
-### JS + Nodejs
+## ![My Skills](https://skills.thijs.gg/icons?i=js,nodejs&theme=dark)  JS + Nodejs
    - Why? What?
 	
    - EventLoop
@@ -74,7 +74,7 @@
 	
   - cron job
 					
-#### Advance Question 
+### Advance Question 
 	web worker
 	threads
 	cluster,fork, process spwan
@@ -82,10 +82,10 @@
 	virtual dom,real dom,real dom,shadow dom  
 	scaling
 	
-### TypeScript
+## ![My Skills](https://skills.thijs.gg/icons?i=ts&theme=dark) TypeScript
 	Will Add Soon
 
-### Angular
+## ![My Skills](https://skills.thijs.gg/icons?i=angular&theme=dark) Angular
 
  - Angular start point  
 	purpose index.html and main.ts
@@ -164,7 +164,7 @@
  
  - rxjs, rxjs operators with example
 
-### Mongodb
+## ![My Skills](https://skills.thijs.gg/icons?i=mongodb&theme=dark) Mongodb
 	Why mongoose? > any other orm  
   		find  
   	aggregate > stages  
